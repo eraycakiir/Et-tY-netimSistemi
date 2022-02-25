@@ -1,1 +1,2 @@
-WindowsFormsApp1
+Bu projede bir etütte yada dershanede yönetici kişinin kullanacağı bir proje tasarladım. Öğretmen seçip ders oluşturabiliyoruz oluşturduğumuz derslere öğrenci atabiliyoruz yada sisteme yeni öğrenci yada öğretmen ekleyebiliyoruz. 
+In this project, I have designed a project that will be used by an administrator in a study or a classroom. We can select a teacher and create a lesson, enter the main system, or add new students or teachers.
